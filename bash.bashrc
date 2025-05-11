@@ -326,7 +326,7 @@ echo " "
 echo " "
 echo " "
 echo "                "/███████████████████88%......./
-sleep 2.0
+sleep 1.0
 clear
 echo " "
 echo " "
