@@ -63,6 +63,10 @@ ls
 
 cp scifi.mp3 /sdcard
 
+ls
+
+cp Manster.mp3 /sdcard
+
 clear
 bash packages.sh
 clear
